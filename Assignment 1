@@ -8,4 +8,15 @@ Q.4  What are the steps to develop software using c language?
 ANS.    Step.1= creating a source code name as .c extension.
         Step.2= compile the .c file using compiler,it will generate a .exe file.
         Step.3= run .exe file.
+Q.5.
+       A.What is the latest version of C Language?
+       ANS. C17.
+       B.Who develop C language
+       ANS. Dennis M. Ritchie.
+       C.What is the difference between System and Application Software?
+       ANS. I. System software are general purpose software while its specific purpose software.
+            II. Without system software system can't work while in application softwre it does.
+            III.System softwares are OS,drivers.Application software are code editor,text editor,browser.
+       D.how to convert decimal number system into binary.
+       ANS. just divide by 2.
      
