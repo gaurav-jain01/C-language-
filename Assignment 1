@@ -1,0 +1,11 @@
+Q.1  Why do computer understand only binary language?
+ANS. Computer has transiter,microprossesor that works on digital circuit.In which only two instuction 0 & 1 works.
+Q.2  What is the full form of IDE?
+ANS. IDE-Intelligent Development Kit.
+Q.3  What is the diffrence between code editor & text editor?
+ANS. text editor can only view and edit text can't run the code whether code editor can view ,edit and run the code.
+Q.4  What are the steps to develop software using c language?
+ANS.    Step.1= creating a source code name as .c extension.
+        Step.2= compile the .c file using compiler,it will generate a .exe file.
+        Step.3= run .exe file.
+     
