@@ -1,0 +1,93 @@
+1. Write a C program to print Hello Students on the screen.
+ANS. 
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("Hello Students");
+    getch();
+    return 0;
+}
+2. Write a C Program to print Hello on the first line and Students in the second line.
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("Hello \nStudents");
+    getch();
+    return 0;
+}
+3. Write a C program to print “MySirG” on the screen
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+  printf("MySirG");
+  getch();
+  return 0;
+}
+4. Write a C program to print “Teacher’s Day” on the screen.
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+  printf("Teacher's Day");
+  getch();
+  return 0;
+}
+5. Write a C program to print \n on the screen
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+  printf("\\n");
+  getch();
+  return 0;
+}
+6. Write a C program to print %d on the screen.
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+  printf("%%d");
+  getch();
+  return 0;
+}
+ 
+7. Write a C program containing declaration of three variables (of type int, char and
+float), also assign some values to them and print values of all three variables using
+single printf().
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    int a=5;
+    char b='A';
+    float c=5;
+
+    printf("%d %c %f",a,b,c);
+    getch();
+    return 0;
+
+}
+8. Explore following format specifiers on internet - %i, %g, %lf
+9. Write a C program to print character stored in a char variable, also print its ASCII
+code.
+ANS.
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+   char x='A',y='a';
+   printf("%d %d",x,y);
+    getch();
+    return 0;
+
+}
+10. How to convert a Decimal number into a Binary number and vice versa.
