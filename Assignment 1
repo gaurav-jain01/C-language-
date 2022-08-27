@@ -18,5 +18,5 @@ Q.5.
             II. Without system software system can't work while in application softwre it does.
             III.System softwares are OS,drivers.Application software are code editor,text editor,browser.
        D.how to convert decimal number system into binary.
-       ANS. just divide by 2.
+       ANS. just divide by 2 and write the remainder from upper to lower.
      
