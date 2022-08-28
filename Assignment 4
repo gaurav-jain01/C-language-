@@ -77,6 +77,11 @@ int main()
 
 }
 8. Explore following format specifiers on internet - %i, %g, %lf
+ANS.
+%i=unsigned int
+%g= use to print optimize value of given floating point value.
+%lf=use to print double type value
+
 9. Write a C program to print character stored in a char variable, also print its ASCII
 code.
 ANS.
